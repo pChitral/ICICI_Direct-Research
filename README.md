@@ -7,7 +7,7 @@ This code scrapes data from ICICIdirect, one of India's largest retail stockbrok
 
 ## If finding stocks to trade is daunting to you, this excel sheet can work as a starting point.
 
-As the data comes from ICICIdirect, the probability of getting into a sham is almost zero. Hence, if your trade has gone in the other direction, you can hold it as there's potential upside in the long term. However, converting MIS into CNC must be done by paying heed to your own risk management (This is what I used to do as a neophyte, I don't recommend it because more often than not, it's imprudent to hold something in loss)
+As the data comes from ICICIdirect, the probability of getting into a sham is almost zero. Hence, if your trade has gone in the other direction, you can hold it as there's potential upside in the long term. However, converting MIS into CNC must be done by paying heed to your own risk management (This is what I used to do as a neophyte, I don't recommend it because more often than not, it's prudent to immediately cut your losses)
 
 ## Note 
 Things discussed above may not suit all investors or traders, nor have I mentioned any trading strategy. The code simply scrapes the data and dumps it into the excel file to do your own analysis. Suppose you have any doubts as to the merits of an investment. In that case, you should seek advice from an independent financial advisor.
